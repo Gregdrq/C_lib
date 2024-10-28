@@ -6,5 +6,6 @@ int main(char **argv, int argc)
     while (!isprime(input_num))
         isprime(input_num);
 }
-isprime(input_num) {
-    if isint(input_num/2)
+isprime(input_num)
+{
+    if (input_num/2)
